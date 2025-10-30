@@ -7,16 +7,16 @@ It demonstrates how to **subscribe to joystick data** and **publish to controlle
 ---
 
 ## 📑 Table of Contents
-1. [Install Dependencies](#-install-dependencies)
-2. [Set Up Workspace](#-set-up-workspace)
-3. [Set Up Interfaces](#-set-up-interfaces)
-4. [Add Topic and Controller Node](#-add-topic-and-controller-node)
-5. [Build and Run](#-build-and-run)
-6. [Notes](#-notes)
+1. [Install Dependencies](#1-install-dependencies)
+2. [Set Up Workspace](#2-set-up-workspace)
+3. [Set Up Interfaces](#3-set-up-interfaces)
+4. [Add Topic](#4-add-topic)
+5. [Build and Run](#5-build-and-run)
+6. [Notes](#6-notes)
 
 ---
 
-# 1. 🧩 Install Dependencies
+# 1. Install Dependencies
 
 Start by installing the `joy` package:
 
@@ -83,7 +83,7 @@ Inside ```package.xml``` add :
 <member_of_group>rosidl_interface_packages</member_of_group>
 ```
 
-# 4. Add topic
+# 4. Add Topic
 Now, in ```controller/src``` add new file for our code :
 ```
 ```
@@ -142,4 +142,6 @@ In the same terminal from when we are sourcing
 ```bash
 ros2 topic echo /cmd_vel
 ```
+
+# 6. Notes
 
