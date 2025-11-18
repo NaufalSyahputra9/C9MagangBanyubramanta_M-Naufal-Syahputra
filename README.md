@@ -16,13 +16,6 @@ Explain the process step by step.
 Install something
 ```
 
-## How it works
-
-Explain how to test the project and give some example.
-
-```bash
-Example
-```
 ## Source
 
 * [Linus Torvalds](https://github.com/torvalds)
