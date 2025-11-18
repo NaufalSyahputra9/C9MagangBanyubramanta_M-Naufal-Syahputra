@@ -1,7 +1,6 @@
-# 🎮 ROS 2 Joystick Controller Project (Humble)
+# Tugas Magang C9Banyubramanta 2025 
 
-Tugas Magang C9Banyubramanta 2025
-
+## 1. 🎮 ROS 2 Joystick Controller Project (Humble)
 ## Overview
 
 This repository contains the setup for a ROS 2 workspace that connects a joystick input (`joy` package) to a custom controller node via a custom message interface.  
