@@ -1,4 +1,4 @@
-# Tugas Magang C9Banyubramanta 2025
+# Tugas Magang C9Banyubramanta 2025 🐙
 
 [![ROS2 Humble](https://img.shields.io/badge/ROS2-Humble-blue)](https://docs.ros.org/en/humble/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)](https://opencv.org/)
