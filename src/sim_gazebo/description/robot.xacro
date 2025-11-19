@@ -2,7 +2,7 @@
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="asep">
 
    <!-- Include macros -->
-   <xacro:include filename="$(find sim_gazebo)/description/intertial.xacro"/>
+   <xacro:include filename="intertial.xacro"/>
    <xacro:include filename="camera.xacro" />
 
    <!-- Define properties -->
